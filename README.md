@@ -1,6 +1,7 @@
-## Aim
+# Face Detection using Haar Cascades with OpenCV and Matplotlib
 ## Name : PARTHASARATHI S
 ## Reg No: 212223040144
+## Aim
 To write a Python program using OpenCV to perform the following image manipulations:  
 i) Extract ROI from an image.  
 ii) Perform face detection using Haar Cascades in static images.  
